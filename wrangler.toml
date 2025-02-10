@@ -1,0 +1,5 @@
+# wrangler.toml
+[vars]
+BOT_TOKEN = "7544054473:AAG9aWU4amrjzz-34x9nGKQX-kG3-EVEQxo"
+ADMIN_ID = "6449612223"
+CHANNELS = "@kajal_developer"
